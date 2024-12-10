@@ -5,5 +5,5 @@ Here, you'll find some of my projects and experiments as I explore the world of 
 
 ##Technologies
 
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML%&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5%&logoColor=white"/>
 
