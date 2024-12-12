@@ -1,9 +1,25 @@
 ## About Me
-Hi! My name is Yriy, and I study web technologies.  
+<b>Hi! My name is Yriy, and I study web technologies.  
 I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn and grow as a developer.  
-Here, you'll find some of my projects and experiments as I explore the world of coding.
+Here, you'll find some of my projects and experiments as I explore the world of coding.</b>
 
-##Technologies
+<h2>I like</h2>
+<b>
+  <li>Teach</li>
+  <li>Sleep</li>
+<b>And coding of course</b>
+  
+</b>
 
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5%&logoColor=white"/>
+<h2>Technologies</h2>
+
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" style="width:50px; height:50px">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" style="width:50px; height:50px">
+<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="width:50px; height:50px">
+<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" style="width:50px; height:50px"> 
+<img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" style="width:50px; heigth:50px;">
+<img src="https://cdn-icons-png.freepik.com/256/3291/3291695.png?ga=GA1.1.155383862.1728930495&semt=ais_hybrid" style="width:50px; heigth:50px">
+</div>
+
 
