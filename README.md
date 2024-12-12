@@ -22,4 +22,10 @@ Here, you'll find some of my projects and experiments as I explore the world of 
 <img src="https://cdn-icons-png.freepik.com/256/3291/3291695.png?ga=GA1.1.155383862.1728930495&semt=ais_hybrid" style="width:50px; heigth:50px">
 </div>
 
+<b>Contact Me</b>
+
+<a href="https://www.instagram.com/likema1n/">
+<img src="https://cdn-icons-png.freepik.com/256/2111/2111463.png?ga=GA1.1.155383862.1728930495&semt=ais_hybrid" style="width:50px; heigth:50px">
+</a>
+
 
