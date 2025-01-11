@@ -18,7 +18,7 @@ Here, you'll find some of my projects and experiments as I explore the world of 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" style="width:50px; height:50px">
 <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="width:50px; height:50px">
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" style="width:50px; height:50px"> 
-<img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" style="width:50px; heigth:50px;">
+<img src="https://icon.icepanel.io/Technology/svg/Git.svg" style="width:50px; heigth:50px;">
 <img src="https://cdn-icons-png.freepik.com/256/3291/3291695.png?ga=GA1.1.155383862.1728930495&semt=ais_hybrid" style="width:50px; heigth:50px">
 </div>
 
