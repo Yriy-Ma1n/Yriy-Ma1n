@@ -1,31 +1,49 @@
+<div align="center">
+  <img src="https://github.com/Ma1ndudecome/MaketTraining/blob/main/giphy%20(1).gif?raw=true" alt="Header" width='100%'/>
+</div>
+<h4 align='center' style='font-size: 16px'>I am studying front-end development at IT Step. So far, I have learned HTML, CSS, Bootstrap, Git, and GitHub, and I am actively learning JavaScript.</h4>
+
 ## About Me
-<b>Hi! My name is Yriy, and I study web technologies.  
-I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn and grow as a developer.  
-Here, you'll find some of my projects and experiments as I explore the world of coding.</b>
+<ul>
+  <li>👨‍💻 <strong>Name:</strong>Yriy Krivoy</li>
+  <li>🎂 <strong>Age:</strong> 16 years old</li>
+  <li>🌍 <strong>Location:</strong> Ukraine</li>
+  <li>🗣️ <strong>Languages:</strong> Ukrainian: Native, Russian: Native, English: A2.</li>
 
-<h2>I like</h2>
-<b>
-  <li>Teach</li>
-  <li>Sleep</li>
-<b>And coding of course</b>
-  
-</b>
+  <li>🎓 <strong>Education:</strong> Front-end Developer from IT STEP Academy.</li>
+  <li>🚀 <strong>Career Goals:</strong>First, learn front-end, then start learning back-end, and master React Native and Dart.</li>
+  <li>📚 <strong>Hobbies:</strong>Gym, watching TV series, walking.</li>
+</ul>
 
-<h2>Technologies</h2>
+ 
+<p align="center">
+  <a href="https://t.me/JustMa1n" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:kskiller2019@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/юрий-кривой-79a531337" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+</p>
+<h2>🚀 Technology stack:</h2>
 
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" style="width:50px; height:50px">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" style="width:50px; height:50px">
-<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="width:50px; height:50px">
-<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" style="width:50px; height:50px"> 
-<img src="https://icon.icepanel.io/Technology/svg/Git.svg" style="width:50px; heigth:50px;">
-<img src="https://cdn-icons-png.freepik.com/256/3291/3291695.png?ga=GA1.1.155383862.1728930495&semt=ais_hybrid" style="width:50px; heigth:50px">
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Sass/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass/SCSS Badge" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Badge" />
+</p>
+
+<h2>📈 GitHub Stats:</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ma1ndudecome&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117"height='200px'/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1ndudecome&layout=compact&bg_color=0d1117&border_color=0d1117" height='200px'/>
 </div>
 
-<b>Contact Me</b>
 
-<a href="https://www.instagram.com/likema1n/">
-<img src="https://cdn-icons-png.freepik.com/256/2111/2111463.png?ga=GA1.1.155383862.1728930495&semt=ais_hybrid" style="width:50px; heigth:50px">
-</a>
+
 
 
