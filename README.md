@@ -5,7 +5,7 @@
 
 ## About Me
 <ul>
-  <li>👨‍💻 <strong>Name:</strong>Yriy Krivoy</li>
+  <li>👨‍💻 <strong>Name:</strong>Yriy</li>
   <li>🎂 <strong>Age:</strong> 16 years old</li>
   <li>🌍 <strong>Location:</strong> Ukraine</li>
   <li>🗣️ <strong>Languages:</strong> Ukrainian: Native, Russian: Native, English: A2.</li>
