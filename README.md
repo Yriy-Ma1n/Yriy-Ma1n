@@ -40,7 +40,7 @@
 <h2>📈 GitHub Stats:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ma1ndudecome&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117"height='300px' width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1ndudecome&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117" height='300px' width="500px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1ndudecome&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117" height='300px' width="330px"/>
 </div>
 
 
