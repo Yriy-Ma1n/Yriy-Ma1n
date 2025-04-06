@@ -40,8 +40,7 @@
 <h2>📈 GitHub Stats:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ma1ndudecome&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117"height='200px' width="400px"/>
-  <img src="https://camo.githubusercontent.com/bc289b30b446d71b095a3ae69c445bb700a57a631b8d80b3416d0784f58ffa4d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d61316e64756465636f6d65266c61796f75743d636f6d706163742662675f636f6c6f723d30643131313726626f726465725f636f6c6f723d306431313137
-" height='200px' width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1ndudecome&layout=compact&bg_color=0d1117&border_color=0d1117" height='200px' width="400px"/>
 </div>
 
 
