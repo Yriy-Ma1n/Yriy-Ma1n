@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Ma1ndudecome/MaketTraining/blob/main/giphy%20(1).gif?raw=true" alt="Header" width='100%'/>
 </div>
-<h4 align='center' style='font-size: 16px'>I am studying front-end development at IT Step. So far, I have learned HTML, CSS, Bootstrap, Git, and GitHub, and I am actively learning JavaScript.</h4>
+<h4 align='center' style='font-size: 16px'>I am studying front-end development at IT Step. So far, I have learned HTML, CSS, Bootstrap, Git, and GitHub, JavaScript. and I am actively learning Angular, React</h4>
 
 ## About Me
 <ul>
