@@ -29,13 +29,53 @@
 </p>
 <h2>🚀 Technology stack:</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/Sass/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass/SCSS Badge" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Badge" />
-</p>
+<div align="center">
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/CSS-3399FF?style=flat&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/REST_API-25D366?style=flat&logo=rest&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/JSDoc-2C6B8E?style=flat&logo=jsdoc&logoColor=white" />
+  </a>
+  <a href="https://github.com/sempaiveid">
+    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
+  </a>
+</div>
 
 <h2>📈 GitHub Stats:</h2>
 <div align="center">
