@@ -17,15 +17,19 @@
 
  
 <p align="center">
+
   <a href="https://t.me/JustMa1n" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>&nbsp;&nbsp;
+
   <a href="mailto:kskiller2019@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/юрий-кривой-79a531337" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/юрий-кривой-79a531337" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
 </p>
 <h2>🚀 Technology stack:</h2>
 
