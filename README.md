@@ -58,11 +58,13 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-
 </div>
 
-
+<h2>📈 GitHub Stats:</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yriy-Ma1n&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117"height='300px' width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yriy-Ma1n&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117" height='300px' width="330px"/>
+</div>
 
 
 
