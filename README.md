@@ -30,51 +30,32 @@
 <h2>🚀 Technology stack:</h2>
 
 <div align="center">
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/CSS-3399FF?style=flat&logo=css3&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/REST_API-25D366?style=flat&logo=rest&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/JSDoc-2C6B8E?style=flat&logo=jsdoc&logoColor=white" width="110" height="40"/>
-  </a>
-  <a href="https://github.com/Ma1ndudecome">
-    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" width="110" height="40"/>
-  </a>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSDoc-FECD2F?style=for-the-badge&logo=jsdoc&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+
 </div>
 
 
