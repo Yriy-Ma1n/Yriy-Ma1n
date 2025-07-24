@@ -8,7 +8,7 @@
   <li>👨‍💻 <strong>Name:</strong>Yriy</li>
   <li>🎂 <strong>Age:</strong> 17 years old</li>
   <li>🌍 <strong>Location:</strong> Ukraine</li>
-  <li>🗣️ <strong>Languages:</strong> Ukrainian: Native, Russian: Native, English: A2.</li>
+  <li>🗣️ <strong>Languages:</strong> Ukrainian: Native, Russian: Native, English: B1.</li>
 
   <li>🎓 <strong>Education:</strong> Front-end Developer from IT STEP Academy.</li>
   <li>🚀 <strong>Career Goals:</strong>First, learn front-end, then start learning back-end, and master React Native and Dart.</li>
