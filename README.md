@@ -6,11 +6,11 @@
 <ul>
   <li>👨‍💻 <strong>Name:</strong>Yriy</li>
   <li>🎂 <strong>Age:</strong> 17 years old</li>
-  <li>🌍 <strong>Location:</strong> Ukraine</li>
-  <li>🗣️ <strong>Languages:</strong> Ukrainian: Native, Russian: Native, English: B1+.</li>
+  <li>🌍 <strong>Location:</strong> Germany</li>
+  <li>🗣️ <strong>Languages:</strong> Ukrainian: Native, English: B1+, German:A2</li>
 
   <li>🎓 <strong>Education:</strong> Front-end Developer from IT STEP Academy.</li>
-  <li>🚀 <strong>Career Goals:</strong>First, learn front-end, then start learning back-end, and master React Native and Dart.</li>
+ 
   <li>📚 <strong>Hobbies:</strong>Gym, watching TV series, walking.</li>
 </ul>
 
@@ -59,11 +59,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-<h2>📈 GitHub Stats:</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yriy-Ma1n&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117"height='300px' width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yriy-Ma1n&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117" height='300px' width="330px"/>
-</div>
 
 
 
