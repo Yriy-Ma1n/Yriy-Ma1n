@@ -4,7 +4,7 @@
 
 ## About Me
 <ul>
-  <li>👨‍💻 <strong>Name:</strong>Yriy</li>
+  <li>👨‍💻 <strong>Name:</strong>Yurii</li>
   <li>🎂 <strong>Age:</strong> 17 years old</li>
   <li>🌍 <strong>Location:</strong> Germany</li>
   <li>🗣️ <strong>Languages:</strong> Ukrainian: Native, English: B1+, German:A2</li>
